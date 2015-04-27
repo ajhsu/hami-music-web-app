@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Hami+ Music Player",
+  "version": "0.1",
+  "permissions": ["webview"],
+  "app": {
+    "background": {
+      "scripts": ["main.js"]
+    }
+  }
+}
